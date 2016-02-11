@@ -1,4 +1,4 @@
-package com.dataonfocus.clustering;
+package com.monitiseMea.kMeansClustering;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -55,7 +55,7 @@ public class Point {
     
     protected static List createRandomPoints(int min, int max, int number) {
     	List points = new ArrayList(number);
-    	for(int i = 0; i &lt; number; i++) {
+    	for(int i = 0; i < number; i++) {
     		points.add(createRandomPoint(min,max));
     	}
     	return points;
