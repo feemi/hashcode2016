@@ -6,3 +6,5 @@ hashcode2016.iml
 .idea/vcs.xml
 .idea/workspace.xml
 .idea/copyright/profiles_settings.xml
+*.class
+uiDesigner.xml
