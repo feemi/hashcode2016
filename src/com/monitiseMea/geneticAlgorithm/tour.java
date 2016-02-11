@@ -3,7 +3,7 @@
 * Stores a candidate tour
 */
 
-package tsp;
+package com.monitiseMea.geneticAlgorithm;
 
 import java.util.ArrayList;
 import java.util.Collections;

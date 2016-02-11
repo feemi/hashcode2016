@@ -3,7 +3,7 @@
 * Models a city
 */
 
-package tsp;
+package com.monitiseMea.geneticAlgorithm;
 
 public class City {
     int x;

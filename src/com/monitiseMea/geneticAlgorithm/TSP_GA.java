@@ -3,7 +3,7 @@
 * Create a tour and evolve a solution
 */
 
-package tsp;
+package com.monitiseMea.geneticAlgorithm;
 
 public class TSP_GA {
 

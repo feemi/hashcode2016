@@ -3,7 +3,7 @@
 * Holds the cities of a tour
 */
 
-package tsp;
+package com.monitiseMea.geneticAlgorithm;
 
 import java.util.ArrayList;
 

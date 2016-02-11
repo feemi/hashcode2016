@@ -3,7 +3,7 @@
 * Manages algorithms for evolving population
 */
 
-package tsp;
+package com.monitiseMea.geneticAlgorithm;
 
 public class GA {
 

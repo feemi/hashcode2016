@@ -3,7 +3,7 @@
 * Manages a population of candidate tours
 */
 
-package tsp;
+package com.monitiseMea.geneticAlgorithm;
 
 public class Population {
 
